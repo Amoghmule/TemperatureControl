@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="get_button">Refresh</string>
+    <string name="request_default_text">Nothing...</string>
+    <string name="enableLableText">Enable/Disable</string>
+    <string name="enabled">Enabled</string>
+    <string name="enabled1">Enabled</string>
+    <string name="enableLable">ON/OFF</string>
+    <string name="enableLable1">ON/OFF</string>
+    <string name="SetpointButtonText">Set</string>
+    <string name="UnknownTemperatureText">Loading...</string>
+    <string name="UnknownTemperatureText2">Loading...</string>
+</resources>
